@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-public class Dice : MonoBehaviour {
+public class Dice2 : MonoBehaviour {
 
-    static public int randomDiceSide1;
-    public static int finalSide1;
+    static public int randomDiceSide2;
+    public static int finalSide2;
 
     // Array of dice sides sprites to load from Resources folder
     private Sprite[] diceSides;
@@ -33,20 +33,20 @@ public class Dice : MonoBehaviour {
     {
         // Variable to contain random dice side number.
         // It needs to be assigned. Let it be 0 initially
-        randomDiceSide1 = 0;
+        randomDiceSide2 = 0;
 
         // Final side or value that dice reads in the end of coroutine
-        finalSide1 = 0;
+        finalSide2 = 0;
 
         // Loop to switch dice sides ramdomly
         // before final side appears. 20 itterations here.
         for (int i = 0; i <= 20; i++)
         {
             // Pick up random value from 0 to 5 (All inclusive)
-            randomDiceSide1 = Random.Range(0, 6);
+            randomDiceSide2 = Random.Range(0, 6);
 
             // Set sprite to upper face of dice from array according to random value
-            rend.sprite = diceSides[randomDiceSide1];
+            rend.sprite = diceSides[randomDiceSide2];
 
             // Pause before next itteration
             yield return new WaitForSeconds(0.05f);
@@ -54,9 +54,9 @@ public class Dice : MonoBehaviour {
 
         // Assigning final side so you can use this value later in your game
         // for player movement for example
-        finalSide1 = randomDiceSide1 + 1;
+        finalSide2 = randomDiceSide2 + 1;
 
         // Show final dice value in Console
-        Debug.Log(finalSide1);
+        Debug.Log(finalSide2);
     }
 }

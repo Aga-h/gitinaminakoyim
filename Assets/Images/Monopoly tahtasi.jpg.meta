@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: 718088ab9a8c5924b87e946cd1e4aea5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 16, y: 34, z: 16, w: 34}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_0'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 636
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820aa39b30527914fb4a5c7edbdf4e0f
+      internalID: 1916406093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_1'
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 636
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f56d4f69af6ec4a8054a52e367890e
+      internalID: 2028718071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_2'
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 636
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31229de531d038146b770719ae250314
+      internalID: -37265456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_3'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 636
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce6aad2d3178e47af43c979adb16fe
+      internalID: -1667056501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_4'
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 636
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205c232220438564c8a2ef0a64458a94
+      internalID: 968400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_5'
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 636
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a208b060e66b4b4e97d5b6c9fd53c92
+      internalID: -386899227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_6'
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 636
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ce2a1dec3b184facda61aa54d646f
+      internalID: -924349611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_7'
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 636
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a4060af9af90479a93600e8c50767
+      internalID: 1301721222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_8'
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 636
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79468cccaffcece4ba4ef39e78042f1e
+      internalID: 1724365753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_9'
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 636
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7a2ef693340c49b9dd416c2c72eba
+      internalID: 24678055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_10'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 636
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35859b857b1ce34095634a224c8451f
+      internalID: 317866564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_11'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 580
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f991685ef1720e4185df6b7697658de
+      internalID: 372477467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_12'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 525
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af373566dce81e4db32a14cbe26eaf3
+      internalID: 867913612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_13'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 468
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205a42e8474eec4895be865fc76e0f0
+      internalID: 1209282824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_14'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 412
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5084949462924594e97ade6da9097
+      internalID: -293006437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_15'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 357
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76425324ca49ed9459850f8643f757fd
+      internalID: 1445187858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_16'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 301
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3783a2f5ff2c9304ebfe4a2292cc9bff
+      internalID: 534115991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_17'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 245
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e7fabde5141f84aa6f95069a9ab87f
+      internalID: -937221171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_18'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 191
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2504133404c295c42b6b3c1693cc178d
+      internalID: 1194903465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_19'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b499eb3cf8edef4db09612b05668b1c
+      internalID: -1740824265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_20'
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 35
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb58afcc10427479173fb0eb3400c7
+      internalID: 398140366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_21'
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 35
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923799bf5ba6b6b4aabb569a11a69926
+      internalID: -1651574893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_22'
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 35
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53297a0b72d2b240a2da2f1f019abf2
+      internalID: -1504318466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_23'
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 35
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075c457b961d0b4982c26e96bc51536
+      internalID: 195289859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_24'
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 35
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecad864843cfe4c469f0c6b940f31ba9
+      internalID: 4678488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_25'
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 35
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c20918d3f61440b43915780c617b4
+      internalID: -694232117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_26'
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 35
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d15beaedfb097418512b2c17b29b4d
+      internalID: 951274880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_27'
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9888462c5c78df41a69d57bdc2da36f
+      internalID: -2083672701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_28'
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 35
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255154b6ca715a442ada41b8d510d11f
+      internalID: 768115489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_29'
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 35
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1d41725d30414ead0078d17ffba87
+      internalID: 1375279577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_30'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3275c9bf489942ada9206b397d69e
+      internalID: -2124883174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_31'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751538f77431b84c973c75f6fb723b8
+      internalID: 21524411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_32'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 101
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cab4629e3d90d469e24cfec8fc8d87
+      internalID: -509069593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_33'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 244
+        width: 101
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e81fc2942904408bc392e8a2a67f8
+      internalID: 1809518616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_34'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 302
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e7b0277c808449b39eb6dbf4a3e08
+      internalID: -595560000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_35'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 357
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94929acc2f79bfe4ea75c57df106da33
+      internalID: -391282642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_36'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 412
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569cc6d75b771594abe987d8286eb192
+      internalID: -1348273372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_37'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 469
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0215bdafca616504f86f06d8969a4348
+      internalID: -134791138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_38'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 524
+        width: 101
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f6e4858503fc84a9c11f82f0131003
+      internalID: -798782369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_39'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 580
+        width: 101
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa54cd3fd463ce43b4e1f880e9272d9
+      internalID: 1297800558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board
+        Game, HD Png Download(1024x1024) - PngFind_40'
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 136
+        width: 499
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa00ef4a6428f444968457acd5fe568
+      internalID: -845644955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_0': 1916406093
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_1': 2028718071
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_10': 317866564
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_11': 372477467
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_12': 867913612
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_13': 1209282824
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_14': -293006437
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_15': 1445187858
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_16': 534115991
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_17': -937221171
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_18': 1194903465
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_19': -1740824265
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_2': -37265456
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_20': 398140366
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_21': -1651574893
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_22': -1504318466
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_23': 195289859
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_24': 4678488
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_25': -694232117
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_26': 951274880
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_27': -2083672701
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_28': 768115489
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_29': 1375279577
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_3': -1667056501
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_30': -2124883174
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_31': 21524411
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_32': -509069593
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_33': 1809518616
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_34': -595560000
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_35': -391282642
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_36': -1348273372
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_37': -134791138
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_38': -798782369
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_39': 1297800558
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_4': 968400482
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_40': -845644955
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_5': -386899227
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_6': -924349611
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_7': 1301721222
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_8': 1724365753
+      '#monopoly #blank #frame #photoframe #game #gameboard - Monopoly Board Game, HD Png Download(1024x1024) - PngFind_9': 24678055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

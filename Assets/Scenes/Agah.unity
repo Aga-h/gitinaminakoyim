@@ -316,7 +316,7 @@ Transform:
   m_GameObject: {fileID: 36270476}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: 9.91, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -733,7 +733,7 @@ Transform:
   m_GameObject: {fileID: 249341465}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: -0.81, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -817,8 +817,8 @@ Transform:
   m_GameObject: {fileID: 318154299}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
-  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_LocalPosition: {x: -10.75, y: 12.79, z: -0.009412631}
+  m_LocalScale: {x: 5, y: 7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2117793776}
@@ -901,7 +901,7 @@ Transform:
   m_GameObject: {fileID: 370965427}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: -3.49, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2212,7 +2212,7 @@ Transform:
   m_GameObject: {fileID: 888463368}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: -8.85, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2561,7 +2561,7 @@ GameObject:
   - component: {fileID: 1021386869}
   - component: {fileID: 1021386870}
   m_Layer: 0
-  m_Name: Mudur Odasi
+  m_Name: MudurOdasi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2828,7 +2828,7 @@ Transform:
   m_GameObject: {fileID: 1194330722}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: 1.87, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3820,7 +3820,7 @@ Transform:
   m_GameObject: {fileID: 1624289085}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: 4.55, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3889,7 +3889,7 @@ GameObject:
   - component: {fileID: 1643212341}
   - component: {fileID: 1643212342}
   m_Layer: 0
-  m_Name: Ana Bina
+  m_Name: AnaBina
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4072,7 +4072,7 @@ Transform:
   m_GameObject: {fileID: 1707064549}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: 7.23, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4324,7 +4324,7 @@ Transform:
   m_GameObject: {fileID: 1943049994}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.259114, y: 2.1360269, z: -0.009412631}
+  m_LocalPosition: {x: -10.75, y: -6.17, z: -0.009412631}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4391,6 +4391,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2117793776}
+  - component: {fileID: 2117793777}
   m_Layer: 0
   m_Name: Tahta
   m_TagString: Untagged
@@ -4454,6 +4455,18 @@ Transform:
   - {fileID: 885400987}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2117793777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2117793775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d73ef7c19cd7f284aafb02b2375f2d3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -5,16 +5,16 @@ using UnityEngine;
 public class BuyableProperties : MonoBehaviour
 {
 
-    public new string name;
-    public int Price;
-    public int PricePerHouse;
-    public int Rent1;
-    public int Rent2;
-    public int Rent3;
-    public int Rent4;
-    public int Rent5;
-    public int Rent6;
-    public int Mortgage;
+    public static new string name;
+    public static int Price;
+    public static int PricePerHouse;
+    public static int Rent1;
+    public static int Rent2;
+    public static int Rent3;
+    public static int Rent4;
+    public static int Rent5;
+    public static int Rent6;
+    public static int Mortgage;
 
     public BuyableProperties(string newName, int newValue, int newValue1, int newValue2, int newValue3, int newValue4, int newValue5, int newValue6, int newValue7, int newValue8) 
     {
